@@ -1,34 +1,33 @@
-# Привет, я разработчик и инженер технического тестирования ⚡
+# Привет! Я Backend-разработчик ⚡
 
-Я специализируюсь на создании высоконагруженных асинхронных приложений на Python, разработке интеллектуальных Telegram-ботов и глубокой работе с аппаратным обеспечением. Люблю задачи на стыке софта и железа — от проектирования ИИ-инструментов до динамических вибрационных испытаний оборудования.
+Я специализируюсь на создании быстрых и масштабируемых асинхронных приложений на Python. Мой главный фокус сейчас — разработка сложных Telegram-ботов с интеграцией нейросетей и продуманной архитектурой.
 
-### 🚀 Основные направления
+### 🤖 Мой ключевой проект: Бот «ИИ-Продюсер»
 
-* **Backend-разработка:** Архитектура Telegram-ботов (например, ИИ-продюсеров), управление состояниями, асинхронный код.
-* **Работа с железом:** Техническое тестирование и написание протоколов для промышленных сканеров, лидаров и осевых датчиков ускорения (КВУ).
-* **Reverse Engineering:** Анализ структур памяти приложений и парсинг данных.
+Я с нуля спроектировал и разработал кастомного Telegram-бота, который выступает в роли умного ИИ-продюсера для создания контента. 
 
-### 🛠 Технологии и инструменты
+**Что реализовано под капотом:**
+* **Полная асинхронность:** Архитектура построена на базе `asyncio` для обработки большого потока одновременных запросов без блокировок.
+* **Современный фреймворк:** Использован `aiogram 3.x` с его продвинутой системой роутеров и middleware.
+* **Управление состояниями (FSM):** Интегрирован `Redis` для надежного кэширования и хранения пользовательских состояний в процессе сложных многошаговых диалогов с нейросетью.
+
+### 🛠 Мой стек технологий
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/asyncio-black?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio" />
   <img src="https://img.shields.io/badge/aiogram_3.x-2C84FA?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Hardware_Testing-FF6F00?style=for-the-badge" alt="Hardware" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📈 Статистика
+### 📈 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aio-crafterМ&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aio-crafter&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 Связь со мной
 
 * 💼 **Фриланс / Проекты:** [[Мой профиль на Kwork](https://kwork.ru/user/workquick)]
 * 💬 **Telegram:** [@kruger79]
-
----
-*"От поиска резонансных частот в датчиках до парсинга памяти и асинхронного кода."*
