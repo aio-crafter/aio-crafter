@@ -22,7 +22,7 @@
 ### 📈 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aio-crafterМ&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aio-crafter М&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 Связь со мной
