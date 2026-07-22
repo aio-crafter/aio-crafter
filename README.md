@@ -22,13 +22,13 @@
 ### 📈 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aio-crafter М&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aio-crafterМ&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 Связь со мной
 
-* 💼 **Фриланс / Проекты:** [[Мой профиль на Kwork](https://kwork.ru/user/workquick)](#)
-* 💬 **Telegram:** [@kruger79](#)
+* 💼 **Фриланс / Проекты:** [[Мой профиль на Kwork](https://kwork.ru/user/workquick)]
+* 💬 **Telegram:** [@kruger79]
 
 ---
 *"От поиска резонансных частот в датчиках до парсинга памяти и асинхронного кода."*
